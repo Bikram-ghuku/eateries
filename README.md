@@ -1,20 +1,20 @@
 # eateries
 Eateries Project containint both backend and front end
 
-!Front end is wrritten in react using frameworks like materials ui , bootstrap and also some native css and html
+# Front end is wrritten in react using frameworks like materials ui , bootstrap and also some native css and html
 
-! backend uses Express to handle requests, Node to run server, MongoDB to store data
+# backend uses Express to handle requests, Node to run server, MongoDB to store data
 
-! photos
+# photos
 
-!! Login page photo: 
+## Login page photo: 
 <img src="./photos/loginPage.png">
 
-!! Register page photo 
+## Register page photo 
 <img src="./photos/registerPage.png">
 
-!! Home page photo
+## Home page photo
 <img src="./photos/homePage.png">
 
-!! Cart page photo
+## Cart page photo
 <img src="./photos/cartPage.png">
